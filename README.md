@@ -21,12 +21,16 @@ As discussed earlier the Fact table and the three dimension tables are linked to
 
 ## Overview-
 There are three reports. The frist one is the sales overview report which has the overall internet sales vs the budget and details about the products and customers.The second report is about Customer Analysis containg the customer information in detail. The third one is the Product overview having details about the best selling products and sub-products. The first report has two buttons on the top-left which can be used to access the other two pages. 
+
 Sales Report-
+
 ![image](https://user-images.githubusercontent.com/30018086/220398250-cc8a5f33-2fc1-44e6-9602-11a0efc972cf.png)
 
 Customer Analysis-
+
 ![image](https://user-images.githubusercontent.com/30018086/220398550-d4cfc679-f9cb-4878-80af-27aaaec08da1.png)
 
-Product-
+Product Details-
+
 ![image](https://user-images.githubusercontent.com/30018086/220398773-c560e708-6b17-42f3-bd3c-cc9e5a6a8e8a.png)
 
