@@ -39,3 +39,6 @@ Product Details-
 2. London and Paris were the cities with the biggest share of sales.
 3. Out of the three categories bikes was the most selling one.
 4. mRoad bikes and mountain bikes and were the most selling bikes. 
+
+## Data Source
+https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
